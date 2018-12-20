@@ -1,0 +1,212 @@
+dmaID,regionName,cityList
+#500,Portland-Auburn,['portland-auburn']
+#501,New York,"['new york', 'Norwalk, CT', 'New York', 'Danbury, CT', 'Newark, NJ', 'New Brunswick, NJ']"
+#502,Binghamton,['binghamton']
+#503,Macon,['macon']
+#504,Philadelphia,"['philadelphia', 'Philadelphia']"
+#505,Detroit,"['detroit', 'Detroit']"
+#506,Boston (Manchester),"['boston (manchester)', 'Boston']"
+#507,Savannah,['savannah']
+#508,Pittsburgh,"['pittsburgh', 'Pittsburgh']"
+#509,Ft. Wayne,['ft. wayne']
+#510,Cleveland-Akron (Canton),"['cleveland-akron (canton)', 'Canton, OH', 'Cleveland']"
+#511,"Washington, DC (Hagrstwn)","['washington dc (hagrstwn)', 'Alexandria, VA']"
+#512,Baltimore,"['baltimore', 'Baltimore']"
+#513,Flint-Saginaw-Bay City,['flint-saginaw-bay city']
+#514,Buffalo,"['buffalo', 'Buffalo']"
+#515,Cincinnati,"['cincinnati', 'Cincinnati']"
+#516,Erie,['erie']
+#517,Charlotte,"['charlotte', 'Charlotte']"
+#518,Greensboro-H.Point-W.Salem,"['greensboro-h.point-w.salem', 'Winston Salem, NC']"
+#519,"Charleston, SC","['charleston sc', 'Charleston, SC']"
+#520,Augusta-Aiken,"['augusta-aiken', 'Aiken, SC']"
+#521,Providence-New Bedford,"['providence-new bedford', 'Newport, RI', 'Providence, RI']"
+#522,"Columbus, GA (Opelika, AL)",['columbus ga (opelika al)']
+#523,Burlington-Plattsburgh,['burlington-plattsburgh']
+#524,Atlanta,"['atlanta', 'Atlanta']"
+#525,"Albany, GA",['albany ga']
+#526,Utica,['utica']
+#527,Indianapolis,"['indianapolis', 'Indianapolis']"
+#528,Miami-Ft. Lauderdale,"['miami-ft. lauderdale', 'Miami', 'Miramar, FL', 'Fort Lauderdale']"
+#529,Louisville,"['louisville', 'Frankfort, KY', 'Louisville, KY']"
+#530,Tallahassee-Thomasville,"['tallahassee-thomasville', 'Valdosta, GA']"
+#531,"Tri-Cities, TN-VA","['tri-cities tn-va', 'Johnson City, TN']"
+#532,Albany-Schenectady-Troy,['albany-schenectady-troy']
+#533,Hartford & New Haven,"['hartford & new haven', 'Hartford, CT']"
+#534,Orlando-Daytona Bch-Melbrn,"['orlando-daytona bch-melbrn', 'Deltona, FL', 'Palm Bay, FL', 'Orlando']"
+#535,"Columbus, OH","['columbus oh', 'Columbus']"
+#536,Youngstown,['youngstown']
+#537,Bangor,['bangor']
+#538,"Rochester, NY","['rochester ny', 'Rochester, NY']"
+#539,Tampa-St. Pete (Sarasota),"['tampa-st. pete (sarasota)', 'Bradenton, FL', 'Tampa']"
+#540,Traverse City-Cadillac,['traverse city-cadillac']
+#541,Lexington,"['lexington', 'Lexington, KY']"
+#542,Dayton,"['dayton', 'Dayton, OH']"
+#543,Springfield-Holyoke,['springfield-holyoke']
+#544,Norfolk-Portsmth-Newpt Nws,"['norfolk-portsmth-newpt nws', 'Newport News, VA', 'Virginia Beach', 'Portsmouth']"
+#545,Greenville-N.Bern-Washngtn,['greenville-n.bern-washngtn']
+#546,"Columbia, SC","['columbia sc', 'Columbia, SC']"
+#547,Toledo,['toledo']
+#548,West Palm Beach-Ft. Pierce,['west palm beach-ft. pierce']
+#549,Watertown,['watertown']
+#550,Wilmington,['wilmington']
+#551,Lansing,['lansing']
+#552,Presque Isle,['presque isle']
+#553,Marquette,['marquette']
+#554,Wheeling-Steubenville,['wheeling-steubenville']
+#555,Syracuse,['syracuse']
+#556,Richmond-Petersburg,"['richmond-petersburg', 'Richmond']"
+#557,Knoxville,"['knoxville', 'Knoxville, TN']"
+#558,Lima,['lima']
+#559,Bluefield-Beckley-Oak Hill,['bluefield-beckley-oak hill']
+#560,Raleigh-Durham (Fayetvlle),"['raleigh-durham (fayetvlle)', 'Fayetteville, NC', 'Raleigh']"
+#561,Jacksonville,"['jacksonville', 'Jacksonville']"
+#563,Grand Rapids-Kalmzoo-B.Crk,"['grand rapids-kalmzoo-b.crk', 'Grand Rapids, MI']"
+#564,Charleston-Huntington,['charleston-huntington']
+#565,Elmira (Corning),['elmira (corning)']
+#566,Harrisburg-Lncstr-Leb-York,['harrisburg-lncstr-leb-york']
+#567,Greenvll-Spart-Ashevll-And,"['greenvll-spart-ashevll-and', 'Greenville, SC']"
+#569,Harrisonburg,['harrisonburg']
+#570,Myrtle Beach-Florence,['myrtle beach-florence']
+#571,Ft. Myers-Naples,['ft. myers-naples']
+#573,Roanoke-Lynchburg,['roanoke-lynchburg']
+#574,Johnstown-Altoona-St Colge,['johnstown-altoona-st colge']
+#575,Chattanooga,['chattanooga']
+#576,Salisbury,['salisbury']
+#577,Wilkes Barre-Scranton-Hztn,['wilkes barre-scranton-hztn']
+#581,Terre Haute,['terre haute']
+#582,"Lafayette, IN",['lafayette in']
+#583,Alpena,['alpena']
+#584,Charlottesville,['charlottesville']
+#588,South Bend-Elkhart,['south bend-elkhart']
+#592,Gainesville,['gainesville']
+#596,Zanesville,['zanesville']
+#597,Parkersburg,['parkersburg']
+#598,Clarksburg-Weston,['clarksburg-weston']
+#600,Corpus Christi,"['corpus christi', 'Corpus Christi, TX']"
+#602,Chicago,"['chicago', 'Chicago']"
+#603,Joplin-Pittsburg,['joplin-pittsburg']
+#604,Columbia-Jefferson City,['columbia-jefferson city']
+#605,Topeka,['topeka']
+#606,Dothan,['dothan']
+#609,St. Louis,"['st. louis', 'Saint Louis']"
+#610,Rockford,"['rockford', 'Rockford, IL']"
+#611,Rochestr-Mason City-Austin,['rochestr-mason city-austin']
+#612,Shreveport,['shreveport']
+#613,Minneapolis-St. Paul,"['minneapolis-st. paul', 'Eden Prairie, MN', 'Minneapolis']"
+#616,Kansas City,"['kansas city', 'Overland Park, KS', 'Lees Summit, MO', 'Kansas City']"
+#617,Milwaukee,"['milwaukee', 'Milwaukee']"
+#618,Houston,"['houston', 'Sugar Land, TX', 'Houston']"
+#619,"Springfield, MO",['springfield mo']
+#622,New Orleans,"['new orleans', 'New Orleans']"
+#623,Dallas-Ft. Worth,"['dallas-ft. worth', 'Dallas', 'Fort Worth']"
+#624,Sioux City,['sioux city']
+#625,Waco-Temple-Bryan,['waco-temple-bryan']
+#626,Victoria,"['victoria', 'Victoria, TX']"
+#627,Wichita Falls & Lawton,[]
+#628,Monroe-El Dorado,['monroe-el dorado']
+#630,Birmingham (Ann and Tusc),"['birmingham (ann and tusc)', 'Birmingham, AL']"
+#631,Ottumwa-Kirksville,['ottumwa-kirksville']
+#632,Paducah-Cape Girard-Harsbg,['paducah-cape girard-harsbg']
+#633,Odessa-Midland,['odessa-midland']
+#634,Amarillo,['amarillo']
+#635,Austin,"['austin', 'Austin']"
+#636,Harlingen-Wslco-Brnsvl-McA,['harlingen-wslco-brnsvl-mca']
+#637,Cedar Rapids-Wtrlo-IWC&Dub,['cedar rapids-wtrlo-iwc&dub']
+#638,St. Joseph,['st. joseph']
+#639,"Jackson, TN",['jackson tn']
+#640,Memphis,"['memphis', 'Memphis']"
+#641,San Antonio,"['san antonio', 'San Antonio']"
+#642,"Lafayette, LA",['lafayette la']
+#643,Lake Charles,['lake charles']
+#644,"Alexandria, LA",['alexandria la']
+#647,Greenwood-Greenville,['greenwood-greenville']
+#648,Champaign&Sprngfld-Decatur,['champaign&sprngfld-decatur']
+#649,Evansville,['evansville']
+#650,Oklahoma City,"['oklahoma city', 'Oklahoma City']"
+#651,Lubbock,['lubbock']
+#652,Omaha,"['omaha', 'Omaha, NE']"
+#656,Panama City,['panama city']
+#657,Sherman-Ada,['sherman-ada']
+#658,Green Bay-Appleton,['green bay-appleton']
+#659,Nashville,"['nashville', 'Franklin, TN', 'Nashville']"
+#661,San Angelo,['san angelo']
+#662,Abilene-Sweetwater,['abilene-sweetwater']
+#669,Madison,"['madison', 'Madison, WI']"
+#670,Ft. Smith-Fay-Sprngdl-Rgrs,"['ft. smith-fay-sprngdl-rgrs', 'Fayetteville, AR']"
+#671,Tulsa,"['tulsa', 'Tulsa, OK']"
+#673,Columbus-Tupelo-W Pnt-Hstn,['columbus-tupelo-w pnt-hstn']
+#675,Peoria-Bloomington,"['peoria-bloomington', 'Peoria, IL']"
+#676,Duluth-Superior,['duluth-superior']
+#678,Wichita-Hutchinson Plus,['wichita-hutchinson plus']
+#679,Des Moines-Ames,['des moines-ames']
+#682,Davenport-R.Island-Moline,['davenport-r.island-moline']
+#686,Mobile-Pensacola (Ft Walt),"['mobile-pensacola (ft walt)', 'Pensacola, FL']"
+#687,Minot-Bsmrck-Dcknsn(Wlstn),['minot-bsmrck-dcknsn(wlstn)']
+#691,Huntsville-Decatur (Flor),['huntsville-decatur (flor)']
+#692,Beaumont-Port Arthur,['beaumont-port arthur']
+#693,Little Rock-Pine Bluff,"['little rock-pine bluff', 'Conway, AR', 'Little Rock, AR']"
+#698,Montgomery-Selma,['montgomery-selma']
+#702,La Crosse-Eau Claire,['la crosse-eau claire']
+#705,Wausau-Rhinelander,['wausau-rhinelander']
+#709,Tyler-Longview(Lfkn&Ncgd),['tyler-longview(lfkn&ncgd)']
+#710,Hattiesburg-Laurel,['hattiesburg-laurel']
+#711,Meridian,['meridian']
+#716,Baton Rouge,"['baton rouge', 'Baton Rouge']"
+#717,Quincy-Hannibal-Keokuk,['quincy-hannibal-keokuk']
+#718,"Jackson, MS",['jackson ms']
+#722,Lincoln & Hastings-Krny,"['lincoln & hastings-krny', 'Lincoln, NE']"
+#724,Fargo-Valley City,['fargo']
+#725,Sioux Falls(Mitchell),['sioux falls(mitchell)']
+#734,Jonesboro,['jonesboro']
+#736,Bowling Green,['bowling green']
+#737,Mankato,['mankato']
+#740,North Platte,[]
+#743,Anchorage,['anchorage']
+#744,Honolulu,"['honolulu', 'Honolulu']"
+#745,Fairbanks,['fairbanks']
+#746,Biloxi-Gulfport,['biloxi-gulfport']
+#747,Juneau,[]
+#749,Laredo,[]
+#751,Denver,"['denver', 'Fort Collins, CO', 'Denver']"
+#752,Colorado Springs-Pueblo,"['colorado springs-pueblo', 'Colorado Springs']"
+#753,Phoenix (Prescott),"['phoenix (prescott)', 'Glendale, AZ', 'Gilbert, AZ', 'Phoenix']"
+#754,Butte-Bozeman,['butte-bozeman']
+#755,Great Falls,['great falls']
+#756,Billings,['billings']
+#757,Boise,['boise']
+#758,Idaho Fals-Pocatllo(Jcksn),['idaho fals-pocatllo(jcksn)']
+#759,Cheyenne-Scottsbluff,['cheyenne-scottsbluff']
+#760,Twin Falls,['twin falls']
+#762,Missoula,['missoula']
+#764,Rapid City,[]
+#765,El Paso (Las Cruces),['el paso (las cruces)']
+#766,Helena,[]
+#767,Casper-Riverton,[]
+#770,Salt Lake City,"['salt lake city', 'Salt Lake City']"
+#771,Yuma-El Centro,['yuma-el centro']
+#773,Grand Junction-Montrose,['grand junction-montrose']
+#789,Tucson (Sierra Vista),"['tucson (sierra vista)', 'Tucson']"
+#790,Albuquerque-Santa Fe,['albuquerque-santa fe']
+#798,Glendive,[]
+#800,Bakersfield,"['bakersfield', 'Bakersfield, CA']"
+#801,Eugene,['eugene']
+#802,Eureka,[]
+#803,Los Angeles,"['los angeles', 'Anaheim, CA', 'Fontana, CA', 'Santa Ana, CA', 'Compton, CA', 'Los Angeles', 'Huntington Beach', 'Torrance, CA', 'Moreno Valley, CA', 'Redondo Beach, CA', 'Long Beach, CA', 'Whittier, CA', 'Covina, CA']"
+#804,Palm Springs,['palm springs']
+#807,San Francisco-Oak-San Jose,"['san francisco-oak-san jose', 'San Jose', 'San Francisco']"
+#810,Yakima-Pasco-Rchlnd-Knnwck,['yakima-pasco-rchlnd-knnwck']
+#811,Reno,['reno']
+#813,Medford-Klamath Falls,['medford-klamath falls']
+#819,Seattle-Tacoma,"['seattle-tacoma', 'Seattle']"
+#820,"Portland, OR","['portland or', 'Portland']"
+#821,"Bend, OR",[]
+#825,San Diego,"['san diego', 'San Diego']"
+#828,Monterey-Salinas,['monterey-salinas']
+#839,Las Vegas,"['las vegas', 'Henderson, NV', 'Las Vegas']"
+#855,SantaBarbra-SanMar-SanLuOb,"['santabarbra-sanmar-sanluob', 'Santa Barbara, CA']"
+#862,Sacramnto-Stkton-Modesto,"['sacramnto-stkton-modesto', 'Sacramento']"
+#866,Fresno-Visalia,"['fresno-visalia', 'Fresno']"
+#868,Chico-Redding,"['chico-redding', 'Redding, CA']"
+#881,Spokane,['spokane']
+#999,Null,['None']
